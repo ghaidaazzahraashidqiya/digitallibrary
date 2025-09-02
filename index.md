@@ -9,4 +9,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 ---
 
-*Power by GitHub Pages*
+*Powered by GitHub Pages*
