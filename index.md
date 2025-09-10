@@ -17,7 +17,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Lihat Kebunku](ebook/Lihat Kebunku.pdf) - Flora Maharani (2022)
 11. [Ringkasan Materi VR](ebook/Ringkasan Materi VR.pdf) - Ghaida Azzahra Shidqiya (13040123140117)
 
-
 ---
 
 *Powered by GitHub Pages*
