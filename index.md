@@ -13,6 +13,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Teman Baru Laras](ebook/Teman Baru Laras.pdf) - Daroyah (2020)
 7. [Serigala Peniru dan Keluarga Kambing](ebook/Serigala Penuru dan Keluarga Kambing.pdf) - Minjung Yoo (2021)
 8. [Aum Aum Dinosaurus!](ebook/Aum Aum Dinosaurus!.pdf) - Lavanya Naidu (2024)
+9. [Kanan atau Kiri](ebook/Kanan atau Kiri.pdf) -  Oky E Noorsari (2019)
+10. [Lihat Kebunku](ebook/Lihat Kebunku.pdf) - Flora Maharani (2022)
 
 ---
 
